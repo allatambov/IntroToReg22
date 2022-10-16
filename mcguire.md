@@ -1,4 +1,4 @@
-## Файл polit.csv 
+## Файл mcguire.csv 
 
 ### Контекст
 
